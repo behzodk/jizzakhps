@@ -24,34 +24,34 @@ function Footer(){
                 </div>
             </div>
             
-            {/* <div className="bottom">
+            <div className="bottom">
+//                 <div>
+//                     <h4>Project</h4>
+//                     <a href="/">Changelog</a>
+//                     <a href="/">Status</a>
+//                     <a href="/">License</a>
+//                     <a href="/">All versions</a>
+//                 </div>
+//                 <div>
+//                     <h4>Community</h4>
+//                     <a href="/">GitHub</a>
+//                     <a href="/">Issues</a>
+//                     <a href="/">Project</a>
+//                     <a href="/">Twitter</a>
+//                 </div>
+//                 <div>
+//                     <h4>Help</h4>
+//                     <a href="/">Support</a>
+//                     <a href="/">Troubleshooting</a>
+//                     <a href="/">Contact Us</a>
+//                 </div>
                 <div>
-                    <h4>Project</h4>
-                    <a href="/">Changelog</a>
-                    <a href="/">Status</a>
-                    <a href="/">License</a>
-                    <a href="/">All versions</a>
+                    <h4>Contact</h4>
+                    <a href="mailto:contact@jizzakhps.uz">contact@jizzakhps.uz</a>
+                    <a href="tel:+998722215919">+998 72 221 59 19</a>
+                    <a href="https://t.me/Jizzakh_PM_murojaatbot">Telegram Bot</a>
                 </div>
-                <div>
-                    <h4>Community</h4>
-                    <a href="/">GitHub</a>
-                    <a href="/">Issues</a>
-                    <a href="/">Project</a>
-                    <a href="/">Twitter</a>
-                </div>
-                <div>
-                    <h4>Help</h4>
-                    <a href="/">Support</a>
-                    <a href="/">Troubleshooting</a>
-                    <a href="/">Contact Us</a>
-                </div>
-                <div>
-                    <h4>Others</h4>
-                    <a href="/">Terms of Service</a>
-                    <a href="/">Privacy Policy</a>
-                    <a href="/">License</a>
-                </div>
-            </div> */}
+            </div>
             <p className='copyright'>&#169;Behzod Musurmonqulov</p>
         </div>
     )
