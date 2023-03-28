@@ -1,4 +1,4 @@
-# Trippy
-## Wellcome to the Trippy
-### Here is the project of students of Jizzakh Presidential School. (Jahongir, Behzod, Hasan)
+# Jizzakh Presidential School
+## Wellcome to the Jizzakh PS
+### Official website of Jizzakh Presidential school - https://jizzakhps.uz
 ### Designed by `Behzod Musurmonqulov`
