@@ -3,14 +3,11 @@ import './AboutUsStyles.css'
 function AboutUs(){
     return(
         <div className="about-container">
-            <h1>Our History</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias deleniti maiores, dolore earum aut aperiam, alias facilis sequi neque placeat laborum odit! Culpa hic sapiente vitae esse? Cumque, eum aspernatur? Obcaecati corrupti ad laborum optio natus maiores molestiae iure facilis numquam! Molestiae consequuntur tempora quisquam non.</p>
-
             <h1>Our Mission</h1>
-            <p>Our mission is touch the horizon where our capabilities may successfully meet with the requirements of our clients, that too with ultimate transparency and cost-effectiveness</p>
+            <p>The mission of the Presidential School is to identify and develop the talents of gifted students in Uzbekistan, and to provide them with a rigorous academic curriculum that prepares them for success in higher education and in their future careers. The school aims to foster a love of learning and intellectual curiosity among its students, while also instilling in them a strong sense of national pride and civic responsibility.</p>
 
             <h1>Our Vision</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias deleniti maiores, dolore earum aut aperiam, alias facilis sequi neque placeat laborum odit! Culpa hic sapiente vitae esse? Cumque, eum aspernatur? Obcaecati corrupti ad laborum optio natus maiores molestiae iure facilis numquam! Molestiae consequuntur tempora quisquam non.</p>
+            <p>The vision of the Presidential School is to create a community of highly educated and talented individuals who will become leaders in their fields and make a positive impact on Uzbekistan and the world. The school strives to provide a supportive and nurturing environment where students can pursue their intellectual passions and develop their skills and talents to the fullest. Ultimately, the Presidential School aims to contribute to the overall development of Uzbekistan by producing a new generation of highly skilled and innovative leaders in various fields.</p>
         </div>
     )
 }

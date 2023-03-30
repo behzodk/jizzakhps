@@ -18,6 +18,7 @@
 .navbar-logo{
     color: #222;
     font-size: 2rem;
+    font-weight: bold;
     cursor: pointer;
 }
 .nav-menu{
@@ -64,7 +65,7 @@ button:hover{
 .menu-icons{
     display: none;
 }
-@media screen and (max-width: 1010px) {
+@media screen and (max-width: 1120px) {
     .menu-icons{
         display: block;
         cursor: pointer;
@@ -108,9 +109,6 @@ button:hover{
     .nav-links:hover{
         background: #01959a;
         transition: none;
-    }
-    button{
-        display: none;
     }
     .nav-links-mobile{
         display: block;

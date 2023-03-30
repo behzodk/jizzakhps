@@ -36,6 +36,7 @@ img{
 .hero-text p{
     font-size: 1.3rem;
     color: #fff;
+    font-weight: bold;
     padding: 0.5rem 0 2rem 0;
 }
 .hero-text .show{

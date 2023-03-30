@@ -54,6 +54,9 @@
     margin-bottom: 20px;
 }
 @media screen and (max-width: 850px) {
+    .extra p{
+        display: none;
+    }
     .trip{
         margin: 4rem 2rem;
     }

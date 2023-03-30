@@ -1,5 +1,6 @@
 .destination{
     margin: 4rem 6rem;
+    text-align: center;
 }
 .destination h1{
     font-size: 3rem;
@@ -70,6 +71,7 @@
 @media screen and (max-width: 850px) {
     .destination{
         margin: 4rem 2rem;
+        text-align: center;
     }
     .first-des{
         display: flex;
