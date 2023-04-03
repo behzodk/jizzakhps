@@ -3,8 +3,13 @@ import Hero from "../components/Hero"
 import vu from "../assets/river.jpg"
 import Footer from "../components/Footer"
 import ContactForm from "../components/ContactForm"
+import { useEffect } from "react"
 
 function Contact (){
+    useEffect(() => {
+        document.title = "Contact"
+    }
+    )
     return(
         <>
             <Navbar/>

@@ -3,8 +3,13 @@ import Navbar from "../components/Navbar"
 import Footer from "../components/Footer"
 // import Trip from "../components/Trip"
 import ComingSoon from '../components/ComingSoon'
+import { useEffect } from "react"
 
 function Service (){
+    useEffect(() => {
+        document.title = "Projects"
+    }
+    )
     return(
         <>
             <Navbar/>

@@ -52,7 +52,7 @@ function Footer(){
                     <a href="https://t.me/Jizzakh_PM_murojaatbot">Telegram Bot</a>
                 </div>
             </div>
-            <p className='copyright'>&#169;Behzod Musurmonqulov</p>
+            <p className='copyrightd'>Designed by Behzod Musurmonqulov</p>
         </div>
     )
 }

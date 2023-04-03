@@ -6,8 +6,13 @@ import Footer from "../components/Footer"
 import { Link } from "react-router-dom"
 import "../components/HeroStyles.css"
 import { init } from 'ityped'
+import { useEffect } from "react"
 
 function Home (){
+    useEffect(() => {
+        document.title = "Jizzakh Presidential School"
+    }
+    )
     const myElement = document.querySelector('#mainer')
     init(myElement, { showCursor: false, strings: ['Future of Uzbekistan depends upon us!', 'Lets build future together!' ] })
     return(

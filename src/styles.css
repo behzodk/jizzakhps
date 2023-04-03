@@ -6,7 +6,10 @@
   font-family: 'Poppins', sans-serif;
   -webkit-user-select: none;
 }
-.App{
+.App:not(.allsign){
   text-align: center;
   overflow-x: hidden;
+}
+.allsign{
+  text-align: start;
 }

@@ -52,8 +52,11 @@
     padding-bottom: .4rem;
     font-size: 1.1rem;
 }
-.copyright{
-    display: block;
+.copyrightd{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
     position: absolute;
     font-weight: 200;
     color: #aaa;

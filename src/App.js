@@ -5,6 +5,7 @@ import Service from './routes/Service';
 import About from './routes/About';
 import Contact from './routes/Contact';
 import SignUp from './routes/Signup';
+import SignIn from './routes/Signin';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path='/library' element={<Service/>}/>
         <Route path='/contact' element={<Contact/>}/>
         <Route path='/signup' element={<SignUp/>}/>
+        <Route path='/signin' element={<SignIn/>}/>
       </Routes>
       
     </div>
