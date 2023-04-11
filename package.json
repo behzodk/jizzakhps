@@ -1,6 +1,6 @@
 {
-  "name": "toursim",
-  "version": "0.1.0",
+  "name": "jizzakhps",
+  "version": "1.1.0",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.4.6",
