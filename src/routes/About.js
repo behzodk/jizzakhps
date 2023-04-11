@@ -5,6 +5,7 @@ import AboutUs from "../components/AboutUs"
 import jizzax from '../assets/jizzax.jpg'
 import { useEffect } from "react"
 import Trip from "../components/Trip"
+import Stats from "../components/Stats"
 // import Staff from '../components/Staff'
 
 function About (){
@@ -20,6 +21,7 @@ function About (){
             heroImg={jizzax}
             title="About Us"
             />
+            <Stats/>
             <AboutUs/>
             <Trip/>
             {/* <Staff/> */}
