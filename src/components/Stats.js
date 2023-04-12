@@ -14,8 +14,8 @@ const Stats = () => {
 				<img src={con1} alt='con1'/>
 			</div>
 			<div class="container-text">
-				<h4>5K</h4>
-				<p>Online Courses</p>
+				<h4>166</h4>
+				<p>Students</p>
 			</div>
 		</div>
 
@@ -24,8 +24,8 @@ const Stats = () => {
 				<img src={con2} alt='con2'/>
 			</div>
 			<div class="container-text">
-				<h4>5K</h4>
-				<p>Online Courses</p>
+				<h4>30+</h4>
+				<p>Certificates</p>
 			</div>
 		</div>
 
@@ -34,8 +34,8 @@ const Stats = () => {
 				<img src={con3} alt='con3'/>
 			</div>
 			<div class="container-text">
-				<h4>5K</h4>
-				<p>Online Courses</p>
+				<h4>40</h4>
+				<p>Teachers</p>
 			</div>
 		</div>
 
@@ -44,8 +44,8 @@ const Stats = () => {
 				<img src={con4} alt='con4'/>
 			</div>
 			<div class="container-text">
-				<h4>5K</h4>
-				<p>Online Courses</p>
+				<h4>20+</h4>
+				<p>Subjects</p>
 			</div>
 		</div>
 	</section>
