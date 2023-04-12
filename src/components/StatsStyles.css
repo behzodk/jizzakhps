@@ -8,8 +8,8 @@
 	--p-font: 1.1rem;
 }
 .container-ul{
-	padding: 40px 13%;
-        padding: 40px 13%;
+	padding: 40px 13% 10px 13%;
+        padding: 40px 13% 10px 13%;
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(300px, auto));
 	gap: 1.5rem;
