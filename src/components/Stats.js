@@ -21,21 +21,21 @@ const Stats = () => {
 
 		<div class="container-box">
 			<div class="container-img">
-				<img src={con2} alt='con2'/>
-			</div>
-			<div class="container-text">
-				<h4>30+</h4>
-				<p>Certificates</p>
-			</div>
-		</div>
-
-		<div class="container-box">
-			<div class="container-img">
 				<img src={con3} alt='con3'/>
 			</div>
 			<div class="container-text">
 				<h4>40</h4>
 				<p>Teachers</p>
+			</div>
+		</div>
+
+		<div class="container-box">
+			<div class="container-img">
+				<img src={con2} alt='con2'/>
+			</div>
+			<div class="container-text">
+				<h4>30+</h4>
+				<p>Certificates</p>
 			</div>
 		</div>
 
