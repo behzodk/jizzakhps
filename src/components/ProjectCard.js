@@ -9,7 +9,7 @@ function ProjectCard({id, full_name, date_of_birth, phone_number, role, desc, po
         <Card maxW='sm' className='card-content'>
           <CardBody>
             <Image
-              src={`http://localhost:8000${image}`}
+              src={`https://jizzakhps.pythonanywhere.com${image}`}
               alt='Teacher'
               borderRadius='lg'
             />
