@@ -1,0 +1,21 @@
+.card-content{
+    border: 1px solid #666666!important;
+}
+.HeroSec{
+    margin-top: 40px!important;
+}
+.Col{
+    margin-bottom: 20px;
+}
+.Card{
+    border-bottom: 3px solid #198754;
+    border-top: none;
+}
+.menu-header-text{
+    border-bottom: 3px solid black;
+    display: inline;
+    margin-bottom: 200px;
+}
+.spaceX{
+    height: 50px;
+}

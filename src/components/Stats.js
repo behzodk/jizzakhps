@@ -4,6 +4,7 @@ import con2 from '../assets/images/con2.svg'
 import con3 from '../assets/images/con3.svg'
 import con4 from '../assets/images/con4.svg'
 import './StatsStyles.css'
+import { Link } from 'react-router-dom'
 
 const Stats = () => {
   return (
@@ -19,23 +20,23 @@ const Stats = () => {
 			</div>
 		</div>
 
-		<div class="container-box">
+		<Link to="/staff" class="staff container-box">
 			<div class="container-img">
 				<img src={con3} alt='con3'/>
 			</div>
 			<div class="container-text">
-				<h4>40</h4>
-				<p>Teachers</p>
+				<h4>102</h4>
+				<p>Staff</p>
 			</div>
-		</div>
+		</Link>
 
 		<div class="container-box">
 			<div class="container-img">
 				<img src={con2} alt='con2'/>
 			</div>
 			<div class="container-text">
-				<h4>30+</h4>
-				<p>Certificates</p>
+				<h4>35+</h4>
+				<p>Certificates in olympiads</p>
 			</div>
 		</div>
 

@@ -1,32 +1,35 @@
 .NavbarItems{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0 30px;
-    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, .25);
-    width: 95%;
-    height: 80px;
-    border-radius: 13px;
-    position: fixed;
-    top: 20px;
-    left: 50%;
-    transform: translate(-50%);
-    z-index: 9999;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    padding: 0 30px !important;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, .25) !important;
+    width: 95% !important;
+    height: 80px !important;
+    border-radius: 13px !important;
+    position: fixed !important;
+    top: 20px !important;
+    left: 50% !important;
+    transform: translate(-50%) !important;
+    z-index: 100 !important;
     -webkit-user-select: none;
     background-color: #fff;
 }
 .navbar-logo{
-    color: #222;
-    font-size: 2rem;
-    font-weight: bold;
-    cursor: pointer;
+    color: #222 !important;
+    margin: auto 0;
+    font-size: 2rem !important;
+    font-weight: bold !important;
+    cursor: pointer !important;
 }
 .nav-menu{
     display: grid;
     grid-template-columns: repeat(6, auto);
     grid-gap: 10px;
+    margin: auto 0;
     list-style: none;
-    align-items: center;
+    align-items: center!important;
+    justify-content: center!important;
 }
 .nav-links{
     text-decoration: none;

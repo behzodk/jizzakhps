@@ -29,7 +29,7 @@ const ComingSoon = () => {
 
     }, 1000)
     return (
-        <div className='container'>
+        <div className='container12'>
             <div className="content">
                 <p>This page is under maintenance</p>
                 <h1>We're <span>Launching</span> Soon</h1>
