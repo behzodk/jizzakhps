@@ -16,7 +16,7 @@ function ProjectCard({id, full_name, date_of_birth, phone_number, role, desc, po
         </Card.Text> */}
       </Card.Body>
       <ListGroup className="list-group-flush">
-        <ListGroup.Item>{position}</ListGroup.Item>
+        <ListGroup.Item><b>{position}</b></ListGroup.Item>
         <ListGroup.Item>Born in {date_of_birth}</ListGroup.Item>
         <ListGroup.Item><LocalPhoneIcon/>Contact Number: <br/><b>{phone_number}</b></ListGroup.Item>
       </ListGroup>
