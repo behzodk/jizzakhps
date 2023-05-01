@@ -19,3 +19,26 @@
 .spaceX{
     height: 50px;
 }
+#link-special:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+#link-special:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+#link-special:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+#link-special:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
