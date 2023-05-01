@@ -97,8 +97,7 @@ return (
                 <b>Diversity and inclusion</b> – we value diversity and inclusivity, and our team reflects a range of backgrounds, perspectives, and experiences
             </List.Item>
             <List.Item>
-                <b>No annoying focus ring</b> – focus ring will appear only when user navigates with
-                keyboard
+                <b>Student-centered</b> – Our staff create learning environments that encourage students to take ownership of their learning, explore their interests, and develop critical thinking and problem-solving skills.
             </List.Item>
             </List>
 
