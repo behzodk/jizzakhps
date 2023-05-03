@@ -4,7 +4,7 @@ import Service from './routes/Service';
 import About from './routes/About';
 import Contact from './routes/Contact';
 import Home from './routes/Home';
-import React, { useState } from 'react';
+import React from 'react';
 import { NotFound } from './routes/NotFound';
 import Staff from './routes/Staff';
 
