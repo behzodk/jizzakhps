@@ -69,7 +69,7 @@ function ContactForm() {
             </div>
             <h1>Send a message to us!</h1>
             
-            <form ref={ form } onSubmit={sendEmail} netlify>
+            <form ref={ form } onSubmit={sendEmail} method="POST" data-netlify="true">
                 <input value={input1} onChange={handleChange1} className='in' name="user_name" type='text' placeholder='Name'/>
                 <input value={input2} onChange={handleChange2} className='in' type='emil' placeholder='Email'/>
                 <input name='user_email' value='behzodmusurmonqulov@gmail.com' type='hidden'/>
