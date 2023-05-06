@@ -54,14 +54,9 @@ function ContactForm() {
                     }}
                   >
                     <Alert
-                        message="Success Tips"
+                        message="Success"
                         type="success"
                         showIcon
-                        action={
-                            <Button size="small" type="text">
-                            UNDO
-                            </Button>
-                        }
                         closable
                     />
                   </Space>
