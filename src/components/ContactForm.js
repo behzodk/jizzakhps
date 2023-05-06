@@ -26,9 +26,7 @@ function ContactForm() {
         setTextareaValue(e.target.value);
     }
 
-    const sendEmail = (e) => {
-        e.preventDefault();
-
+    const sendEmail = (e) => 
         emailjs.sendForm('service_gbf0rc4', 'template_iz3nss1', form.current, 'MnM-VJi113dLKCNNW').then((result) => {
             setIsAlert(true);
             setInput1('');
