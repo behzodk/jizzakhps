@@ -1,7 +1,7 @@
 import './ContactFormStyles.css';
 import React, { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
-import { Alert, Button, Space } from 'antd';
+import { Alert, Space } from 'antd';
 
 function ContactForm() {
     const form = useRef();
@@ -26,7 +26,7 @@ function ContactForm() {
         setTextareaValue(e.target.value);
     }
 
-    const sendEmail = (e) => 
+    const sendEmail = (e) => {
         emailjs.sendForm('service_gbf0rc4', 'template_iz3nss1', form.current, 'MnM-VJi113dLKCNNW').then((result) => {
             setIsAlert(true);
             setInput1('');
