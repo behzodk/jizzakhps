@@ -9,4 +9,3 @@
 ### Jizzax prezident maktabining rasmiy sayti
 ### O'zingizni qiziqtirgan savollaringizga javob oling.
 ### Official website of Jizzakh Presidential school - https://jizzakhps.uz
-### Designed by `Behzod Musurmonqulov`
